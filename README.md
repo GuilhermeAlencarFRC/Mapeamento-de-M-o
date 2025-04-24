@@ -24,7 +24,7 @@ Projeto simples de **rastreamento de mão em tempo real** usando a biblioteca [M
 
 ## 📁 Estrutura
 
-projeto deve tem a seguinte estrutura de arquivos:
+o Projeto tem a seguinte estrutura de arquivos:
 
 - hand-gesture-mapper/
 - ├── public/
