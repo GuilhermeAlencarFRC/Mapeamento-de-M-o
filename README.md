@@ -26,6 +26,17 @@ Projeto simples de **rastreamento de mão em tempo real** usando a biblioteca [M
 
 projeto deve tem a seguinte estrutura de arquivos:
 
+- hand-gesture-mapper/
+- ├── public/
+- └ index.html
+- └ script.js
+             
+- ├── server.js
+    
+- ├── package.json
+       
+- ├── .gitignore               
+
 
 ---
 
