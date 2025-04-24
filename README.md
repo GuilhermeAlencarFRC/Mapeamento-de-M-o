@@ -69,6 +69,6 @@ http://localhost:3000
 🧠 Créditos
 
 Feito com paixão por Guilherme Alencar 
-🔗 Luvercontrol - Instagram
+🔗 @Luvercontrol - Instagram
 
 
