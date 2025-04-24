@@ -1,0 +1,15 @@
+{
+  "name": "hand-gesture-brightness",
+  "version": "1.0.0",
+  "description": "Controle de brilho da tela com gestos das mãos.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
